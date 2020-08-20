@@ -3,18 +3,18 @@ This application completely based on backend ,to understand things,php database,
 
 ### Features
 
-Insert Record
-View Record
-Update Record
-Delete record
+1.Insert Record
+2.View Record
+3.Update Record
+4.Delete record
 
 
 ### Technology Stack
 
-CSS
-HTML
-PHP
-MYSQL
+1.CSS
+2.HTML
+3.PHP
+4.MYSQL
 
 
 ## Home page
