@@ -1,14 +1,29 @@
 # BOOK MANAGEMENT APPLICATION
 This application completely based on backend ,to understand things,php database, how to connect database with php
 
+### Features
+
+Insert Record
+View Record
+Update Record
+Delete record
+
+
+### Technology Stack
+
+CSS
+HTML
+PHP
+MYSQL
+
 
 ## Home page
 
-<img src ="images/home.png" width="800" >
+<img src ="images/home.png" height="300" width="600" >
 
 ## insert page
 
-<img src ="images/insert1.png" height="400" width="600" >
+<img src ="images/insert1.png" height="300" width="600" >
 
 <img src ="images/insert2.png"  >
 
