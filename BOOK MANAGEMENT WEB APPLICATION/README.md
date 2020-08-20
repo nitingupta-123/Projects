@@ -2,20 +2,16 @@
 This application completely based on backend ,to understand things,php database, how to connect database with php
 
 ### Features
-
 1.Insert Record
 2.View Record
 3.Update Record
 4.Delete record
 
-
 ### Technology Stack
-
 1.CSS
 2.HTML
 3.PHP
 4.MYSQL
-
 
 ## Home page
 
