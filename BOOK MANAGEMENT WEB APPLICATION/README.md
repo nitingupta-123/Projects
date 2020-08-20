@@ -2,24 +2,24 @@
 This application completely based on backend ,to understand things,php database, how to connect database with php
 
 ### Features
-1.Insert Record
-2.View Record
-3.Update Record
-4.Delete record
+* Insert Record
+* View Record
+* Update Record
+* Delete record
 
 ### Technology Stack
-1.CSS
-2.HTML
-3.PHP
-4.MYSQL
+* CSS
+* HTML
+* PHP
+* MYSQL
 
 ## Home page
 
-<img src ="images/home.png" height="300" width="600" >
+<img src ="images/home.png"  >
 
 ## insert page
 
-<img src ="images/insert1.png" height="300" width="600" >
+<img src ="images/insert1.png" >
 
 <img src ="images/insert2.png"  >
 
